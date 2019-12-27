@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 namespace POM.PageObjects
 {
     class Test1
+
     {
         private IWebDriver driver;
         private string word;
